@@ -1,4 +1,3 @@
-# Beta 0.2
 https://github.com/user-attachments/assets/6766df17-cafd-412a-a0db-cc9331d09b30
 
 https://github.com/user-attachments/assets/ee8a5eeb-ef08-4533-9d7c-af8b7e380659
