@@ -12,4 +12,4 @@ https://github.com/user-attachments/assets/ee8a5eeb-ef08-4533-9d7c-af8b7e380659
 
 ## 更新日志
 
-- **2025-06-22 Beta 0.2 初始**
+- **2025-06-22 Beta 0.2**
